@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NDK01</string>
+
+    <string name="reverse">将输入的字符串逆序处理</string>
 </resources>
