@@ -9,5 +9,5 @@ public class MyNdk {
         System.loadLibrary("MyLibrary");
     }
 
-    public native String getString();
+    public native String getString(String str);
 }
